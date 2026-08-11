@@ -293,6 +293,40 @@
             widows: 3;
         }
 
+        /* ===== Copyright / License page ===== */
+        .copyright-page {
+            padding: 4rem 0;
+            page-break-after: always;
+            break-after: page;
+            font-family: var(--font-sans);
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            line-height: 1.8;
+        }
+        .copyright-page h2 {
+            font-family: var(--font-cinzel);
+            font-size: 1.2rem;
+            font-weight: 500;
+            letter-spacing: 0.06em;
+            margin-bottom: 1.5rem;
+            color: var(--text-primary);
+        }
+        .copyright-page .license-url {
+            word-break: break-all;
+            color: var(--text-muted);
+        }
+        .copyright-page .license-terms {
+            margin: 1rem 0;
+        }
+        .copyright-page .license-terms p {
+            margin-bottom: 0.3rem;
+        }
+        .copyright-page .registration {
+            margin-top: 2rem;
+            font-size: 0.82rem;
+            color: var(--text-muted);
+        }
+
         /* ===== Abstract page ===== */
         .abstract-page {
             padding: 4rem 0;
@@ -584,15 +618,14 @@
             hyphens: none;
         }
 
-        /* ===== Conclusion ===== */
-        .conclusion {
-            margin-top: 4rem;
-            padding-top: 3rem;
-            border-top: 3px double var(--border);
-            -webkit-hyphens: none;
-            -ms-hyphens: none;
-            hyphens: none;
-        }
+        /*!* ===== Conclusion ===== *!*/
+        /*.conclusion {*/
+        /*    margin-top: 4rem;*/
+        /*    padding-top: 3rem;*/
+        /*    -webkit-hyphens: none;*/
+        /*    -ms-hyphens: none;*/
+        /*    hyphens: none;*/
+        /*}*/
 
         /* ===== Back to top ===== */
         .back-to-top {
@@ -727,7 +760,26 @@
         <div class="cover-divider"></div>
         <p class="cover-subtitle">On the Meaning of the Intellective's Existence and a New Form of Human Society</p>
         <p class="cover-author">Ocean Davis</p>
-        <p class="cover-copyright"></p>
+        <p class="cover-copyright">Licensed under CC BY-SA 4.0</p>
+    </div>
+
+    <!-- Copyright / License -->
+    <div class="container">
+        <div class="copyright-page">
+            <h2>Copyright &amp; License</h2>
+            <p>&copy; 2026 Ocean Davis (彭洋).</p>
+            <p>This work is licensed under the <strong>Creative Commons Attribution-ShareAlike 4.0 International License</strong> (CC BY-SA 4.0).</p>
+            <p class="license-url">https://creativecommons.org/licenses/by-sa/4.0/</p>
+            <div class="license-terms">
+                <p><strong>You are free to:</strong></p>
+                <p>&mdash; <strong>Share</strong> &mdash; copy and redistribute the material in any medium or format for any purpose.</p>
+                <p>&mdash; <strong>Adapt</strong> &mdash; remix, transform, and build upon the material for any purpose.</p>
+                <p style="margin-top: 0.8rem;"><strong>Under the following terms:</strong></p>
+                <p>&mdash; <strong>Attribution</strong> &mdash; You must give appropriate credit, provide a link to the license, and indicate if changes were made.</p>
+                <p>&mdash; <strong>ShareAlike</strong> &mdash; If you remix, transform, or build upon the material, you must distribute your contributions under the same license.</p>
+            </div>
+            <p class="registration"></p>
+        </div>
     </div>
 
     <!-- Abstract -->

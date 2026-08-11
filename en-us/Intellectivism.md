@@ -1,8 +1,28 @@
 ---
 title: Intellectivism
 subtitle: On the Meaning of the Intellective's Existence and a New Form of Human Society
-author: Ocean Davis
-copyright: 
+author: Ocean Davis (彭洋)
+license: CC BY-SA 4.0
+copyright: © 2026 Ocean Davis (彭洋)
+---
+
+> **License**
+>
+> © 2026 Ocean Davis (彭洋).
+>
+> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+> To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+>
+> **You are free to:**
+>
+> - **Share** — copy and redistribute the material in any medium or format for any purpose.
+> - **Adapt** — remix, transform, and build upon the material for any purpose.
+>
+> **Under the following terms:**
+>
+> - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+> - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
 ---
 # Intellectivism
 On the Meaning of the Intellective's Existence and a New Form of Human Society
