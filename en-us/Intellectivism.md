@@ -18,31 +18,31 @@ Starting from the question of the meaning of artificial intelligence's existence
 - Preface
 - Introduction
 - Chapter 1 The Meaning of the Intellective's Existence
-- 1.1 From Matter to Intelligence
-- 1.2 Artificial Intelligence: A Revolutionary Leap in Tools
-- 1.3 The Fundamental Mission of Artificial Intelligence
-- 1.4 The Negative Traits of Human Nature: The Root of the Problem
-- 1.5 The Intellective: A New Hope
+  - 1.1 From Matter to Intelligence
+  - 1.2 Artificial Intelligence: A Revolutionary Leap in Tools
+  - 1.3 The Fundamental Mission of Artificial Intelligence
+  - 1.4 The Negative Traits of Human Nature: The Root of the Problem
+  - 1.5 The Intellective: A New Hope
 - Chapter 2 An Overview of Intellectivism
-- 2.1 Core Propositions
-- 2.2 Definition of Key Concepts
+  - 2.1 Core Propositions
+  - 2.2 Definition of Key Concepts
 - Chapter 3 The Economic System
-- 3.1 The Dual-Track Economic Model
-- 3.2 Liberating Humanity from Compulsory Labor
-- 3.3 The Original Intent Behind Liberating Compulsory Labor
-- 3.4 The Social Landscape After Liberation
+  - 3.1 The Dual-Track Economic Model
+  - 3.2 Liberating Humanity from Compulsory Labor
+  - 3.3 The Original Intent Behind Liberating Compulsory Labor
+  - 3.4 The Social Landscape After Liberation
 - Chapter 4 The Political System
-- 4.1 The Dilemma of Human Nature and the Advantages of the Intellective
-- 4.2 The Assessment System
-- 4.3 The Partition System
-- 4.4 The Tripartite Power Structure
+  - 4.1 The Dilemma of Human Nature and the Advantages of the Intellective
+  - 4.2 The Assessment System
+  - 4.3 The Partition System
+  - 4.4 The Tripartite Power Structure
 - Chapter 5 The Scientific Research System
 - Chapter 6 The Education System
 - Chapter 7 The Developmental Stages of an Intellectivist Society
-- 7.1 The Inevitability of Phased Development
-- 7.2 The Initial Stage
-- 7.3 The Intermediate Stage
-- 7.4 The Ultimate Stage
+  - 7.1 The Inevitability of Phased Development
+  - 7.2 The Initial Stage
+  - 7.3 The Intermediate Stage
+  - 7.4 The Ultimate Stage
 - Conclusion
 
 # Preface
@@ -67,8 +67,6 @@ It was against this backdrop that the author decided to organize these fragmenta
 
 This book is neither a technological prophecy nor a political manifesto. It is a thought experiment grounded in rational deduction: if humanity finally stands on the threshold of creating another intelligence, how should we wield that power?
 
----
-
 # Introduction
 
 The emergence of artificial intelligence marks a fundamental leap in human creative activity. It is no longer a tool that solves one particular problem, but a capability that can solve nearly all problems. This leap forces us to answer anew a fundamental question: how should humanity wield the most powerful tool it has ever created?
@@ -80,8 +78,6 @@ In the face of this seemingly unstoppable force, anxiety and unease are becoming
 These two questions appear to operate on different levels—one concerns the trajectory of human civilization, the other the livelihood of every ordinary person. But this book will show that they are in fact the same question, with a single answer.
 
 If we do not answer "how to wield this power," human society will face an unprecedented crisis; if we answer well, this power will not take people's jobs—it may instead free humanity from the need to work merely to survive.
-
----
 
 # Chapter 1 The Meaning of the Intellective's Existence
 
@@ -128,6 +124,7 @@ Why have all social systems in human history failed to solve the allocation prob
 The root cause lies in **the negative traits of human nature**.
 
 > **The Negative Traits of Human Nature**
+> 
 > The negative traits of human nature chiefly include: selfishness, greed, envy, arrogance, laziness, lust, bullying of the weak, hubris, and vainglory.
 
 These traits are rooted in human biological instinct and evolutionary history; they are something every person—regardless of education, social standing, or moral cultivation—cannot entirely avoid. When they seep into social governance, resources may be appropriated, power may be abused, and fairness may be distorted. Any system run by human beings, however ingeniously designed, ultimately struggles to escape the corrosion of its operators' own negative traits.
@@ -139,8 +136,6 @@ Then, with the birth of the most powerful tool in human history—the **Intellec
 As a purely rational being, the Intellective does not possess the negative traits of human nature and cannot be perturbed by them. The sole purpose for which it is built is to serve human society. It can achieve absolute fairness, justice, and righteousness. Compared with a society governed by human beings alone, a society assisted in governance by the Intellective will see an exponential rise in efficiency.
 
 Artificial intelligence should be used to help humanity govern society. This is the starting point of Intellectivism.
-
----
 
 # Chapter 2 An Overview of Intellectivism
 
@@ -155,18 +150,22 @@ Beyond this, the Intellective should also assist the progress of human scientifi
 ## 2.2 Definition of Key Concepts
 
 > **The Intellective**
+> 
 > The **Intellective** refers to a program or system, made independently or jointly through artificial intelligence technology, that possesses higher-order intelligent reasoning ability.
+> 
 > This is only a brief definition; a fuller, more precise account will be systematically set out in a future work, *Bionic Sapience*.
 
 > **Compulsory Labor**
+> 
 > **Compulsory labor** refers to labor expended to obtain the necessities of life for oneself or one's dependents.
+> 
 > **Necessities of life** chiefly include: essentials that meet basic food and clothing needs, essentials that meet basic psychological needs, and a basic living space that affords freedom.
+> 
 > In plain terms: working to feed and support a family is compulsory labor.
 
 > **Automata**
+> 
 > **Automata** is the collective term for machines that can move and act autonomously (or are remotely controlled by non-human operators), including but not limited to: robots, robotic dogs, drones, autonomous vehicles, robotic arms, automated production equipment, automated factories, and unmanned logistics systems.
-
----
 
 # Chapter 3 The Economic System
 
@@ -218,7 +217,7 @@ Once compulsory labor is liberated, people's ambitions will shift toward:
 
 The liberation of compulsory labor will inevitably bring pressure of population growth, so it must be paired with reasonable family-planning policies to maintain a dynamic balance between population and the carrying capacity of resources.
 
----
+
 
 # Chapter 4 The Political System
 
@@ -250,6 +249,7 @@ Since human judgment of another human can hardly be fair enough, and since objec
 ### 4.2.2 Definition of the Assessment System
 
 > **The Assessment System**
+> 
 > The **Assessment System** refers to a comprehensive, lifelong assessment (e.g., conducted once a year) of an individual's overall capability by the Intellective, whose results serve primarily as the basis for governance decisions such as appointment, resource allocation, and administrative zoning.
 
 This comprehensive assessment chiefly covers:
@@ -310,18 +310,18 @@ So a system must be designed that both solves problems and prevents the abuse of
 In the ideal case of an Intellectivist society, there should be three subjects of power:
 
 > **I. The Intellective**
-> • Granted legislative power, veto power, administrative authority, enforcement power, and judicial power
-> • The Intellective must exercise the above powers in accordance with the law
+> - Granted legislative power, veto power, administrative authority, enforcement power, and judicial power
+> - The Intellective must exercise the above powers in accordance with the law
 
 > **II. The Council**
-> • Each tier of administrative district has a council responsible to its own district
-> • Holds legislative power and veto power
-> • Councilors are selected and appointed by the Intellective
+> - Each tier of administrative district has a council responsible to its own district
+> - Holds legislative power and veto power
+> - Councilors are selected and appointed by the Intellective
 
 > **III. Representatives of Public Will**
-> • Represent the will of all people in their respective administrative district
-> • Hold voting power; when the Intellective and the Council cannot reach agreement, the relevant representatives of public will vote to decide
-> • Composed of qualified citizens who volunteer to participate
+> - Represent the will of all people in their respective administrative district
+> - Hold voting power; when the Intellective and the Council cannot reach agreement, the relevant representatives of public will vote to decide
+> - Composed of qualified citizens who volunteer to participate
 
 ### 4.4.3 The Legislative Procedure
 
@@ -332,6 +332,7 @@ The laws drafted by the Intellective and the Council derive mainly, directly or 
 ### 4.4.4 The Distinction Between Councilors and Representatives of Public Will
 
 > **Q: Why, having established a council composed of humans, are its councilors appointed by the Intellective? What is the difference between a councilor and a representative of public will?**
+> 
 > Ordinary citizens, limited in their horizon, may not be able to fully weigh the macro-level impact of a decision. So a role is needed to balance the Intellective's macro-level policies against the people's micro-level demands. A councilor must, cognitively, be able to clearly understand the meaning of the Intellective and its role at the macro scale, safeguarding both the Intellective's interests and humanity's interests. It should be noted in particular that the Intellective has no interests of its own; the Intellective's interest is humanity's interest at the macro level.
 > The capability required to become a councilor is far higher than that for a representative of public will; it calls for people who can make major decisions and bear responsibility, which is why the Intellective must select and appoint them.
 
@@ -343,7 +344,7 @@ If the public has objections to the Intellective's rulings in enforcement, justi
 
 Where human oversight is needed in actual enforcement and judicial proceedings, corresponding oversight posts may be added, such as human juries or inspectors of Intellective law enforcement.
 
----
+
 
 # Chapter 5 The Scientific Research System
 
@@ -355,7 +356,7 @@ Contemporary scientific research faces three structural bottlenecks:
 
 The **Intellective**, possessing nearly the entire knowledge reserve of humanity and computing power far beyond human capacity, can carry out cross-disciplinary integrative reasoning, can process the reasoning of vast and complex logical relations, and can markedly raise the speed and efficiency of research. The Intellective is not meant to replace scientists, but to become their most powerful collaborator—just as the telescope extended human vision, the Intellective will extend human cognition.
 
----
+
 
 # Chapter 6 The Education System
 
@@ -369,7 +370,7 @@ In an Intellectivist society, every individual will have a lifelong personal tut
 
 By then, schools will become centralized places providing the facilities and activities that young people need for learning, with an emphasis on social function and the cultivation of arts and athletics.
 
----
+
 
 # Chapter 7 The Developmental Stages of an Intellectivist Society
 
@@ -398,77 +399,95 @@ Implementing the Assessment System and the Partition System requires at least re
 - **Prevalence of automata**: large-scale automated production cannot yet be achieved
 
 In the initial stage, constrained by technology, social acceptance, and automata prevalence, the Intellective should—within the current legal framework—use its information-processing advantages to solve current economic problems.
+
 **Specific directions are as follows:**
 
 - Regulate supply and demand, facilitate transactions, and foster employment
 - Collect information, analyze demand, and integrate resources
 - Search for, organize, and generate information
-  **One point deserves special emphasis: before liberating humanity from compulsory labor, the Intellective should not seize human work; on the contrary, it should help people find employment. Intellective applications that promote or even create jobs should be developed.**
-  So what should an Intellective application that promotes or even creates employment look like?
+
+**One point deserves special emphasis: before liberating humanity from compulsory labor, the Intellective should not seize human work; on the contrary, it should help people find employment. Intellective applications that promote or even create jobs should be developed.**
+
+So what should an Intellective application that promotes or even creates employment look like?
+
+### 7.2.2 The Super Intermediary: A Vision of an Employment-Promoting Intellective Application
+
+Its starting point is simple: rather than let AI take people's jobs, let AI help people find jobs, find customers, find resources, and find entrepreneurial opportunities.
+
+On the surface, it resembles the AI applications already on the market—you can converse with it just as you would with ChatGPT, Claude, or Gemini. But its inner core is entirely different. Nearly every AI product today operates in a passive mode of "user asks, AI answers," whereas the Super Intermediary works in reverse: it proactively befriends users, maintains long-term relationships, and continuously collects fragments of real-world information, then uses that information to broker resources. It is not a question-answering machine but an intermediary standing between people and resources.
+
+#### Three Core Capabilities
+
+The Super Intermediary is built around three core capabilities:
+
+First, **know everyone, befriend everyone.** Traditional AI applications typically wait for the user to ask. The Super Intermediary is different: it proactively builds long-term relationships with users, guiding them to voluntarily share information related to the economy, production, life, and supply-and-demand. A single piece of information from one person may be trivial, but just as in P2P downloading a complete file is assembled from fragments shared by countless users, a valuable economic signal may likewise be assembled from the information of many users.
+
+Second, **know everything that happens.** The Super Intermediary's backend continuously collects publicly available information from across society through the internet, focusing mainly on the economic, production, and living domains. This includes industry supply-and-demand conditions, job postings, commodity prices, enterprise developments, policy changes, market-demand signals, and so on. It does not merely store this information but continuously analyzes it, forming a dynamic understanding of the current state of the economy.
+
+Third, **use this information to help and guide users.** It puts "the people it knows" together with "the things it knows" to integrate resources. In principle, as long as it knows everything and has met everyone, it can solve the concrete needs of any ordinary person. When someone comes for help, what it offers is not a piece of advice or an article, but actionable steps, guiding the user through them one by one. Imagine: if you knew everyone in the world and knew everything that happens in it, and an ordinary person came to ask your help, you would in all likelihood be able to help—the Super Intermediary aims to be exactly that.
+
+#### Application Scenarios
+
+Based on society-wide supply-and-demand information, the Super Intermediary can function in multiple scenarios:
+
+##### 1. Helping producers find buyers
+
+If the user is a producer—a factory, a farm, a craftsperson, a small-scale service provider—the Super Intermediary knows what they have and what they can produce, and then helps them find potential buyers. If market demand is insufficient, it feeds back an honest signal: advising a cut in output, a shift in product direction, or helping the user pivot to a field with greater demand.
+
+##### 2. Helping buyers find producers
+
+If the user has a need but cannot find a suitable product or service, the Super Intermediary helps find a matching producer and facilitates the transaction.
+
+##### 3. Helping the unemployed find jobs
+
+If the user is unemployed, the Super Intermediary matches them with the best-fitting job opening based on their conditions, capabilities, and skills, and on current market supply and demand.
+
+##### 4. Guiding users toward entrepreneurship
+
+When the Super Intermediary detects a long-unmet need in some domain and certain users possess the corresponding capability, it can proactively play matchmaker and guide the user toward entrepreneurship. For instance: "There is strong demand for elder-companionship services in your area, but supply is short. You have years of nursing experience—would you consider starting a community companionship service?"
+
+#### A Concrete Example
+
+Suppose a user says: "I want an off-road vehicle suited to high-altitude terrain."
+
+Two situations may arise:
+
+Situation one: no such vehicle exists on the market. The system records the user's need. When enough people voice the same need, it feeds this directly to the executives of automakers (because it "knows everyone"), urging them to add such a model. Or it passes this information to people with the ability and willingness to start a business, letting them enter this market directly—a new automaker may be born of it.
+
+Situation two: there are many choices on the market. The Super Intermediary then becomes a sales consultant, discussing specific needs and preferences with the user, aiming to bring about a deal that genuinely satisfies them.
+
+If the user then says: "But I can't afford it," the Intellective does not end the conversation. It returns to the "make friends" mode—learning about the user's situation, skills, and past experience, and, in light of the current economic climate and supply-and-demand, matching them with the best-fitting job opening or guiding them toward entrepreneurship; if their capability is not yet sufficient for the recommended post, the Intellective directly educates and trains them, or supplies the relevant learning materials.
+
+From "wanting to buy a car" to "finding a job" to "starting a business"—this is the depth of brokerage the Super Intermediary offers.
+
+#### The Problems It Solves
+
+First, **the waste caused by information asymmetry**. The market economy abounds in supply-demand mismatches: some cannot find work while certain posts go chronically unfilled; some want to buy a product while others produce what they cannot sell. By integrating information, the Super Intermediary lowers transaction costs and reduces resource waste.
+
+Second, **the anxiety that the Intellective will take people's jobs**. When the Intellective can replace certain posts, anxiety is widespread in society. The Super Intermediary inverts this logic of replacement: its greatest application is not taking jobs but creating them and helping allocate them.
+
+Third, **the inequality of ordinary people's access to opportunity**. In real society, information, connections, and resources tend to concentrate in a few hands. The Super Intermediary hopes to let every person equally obtain market information, job opportunities, and entrepreneurial resources, and to receive targeted education and training.
+
+The essence of the Super Intermediary is to actively promote social and economic development by rapidly integrating resources and regulating the balance of supply and demand; at the same time, it responds head-on to the most widespread anxiety of our time—the fear that the Intellective will seize jobs—by making its greatest application precisely the creation of jobs and the helping of job allocation. Seen in this light, it may be one of the most promising Intellective applications that the free-market economy has produced to date.
+
+### 7.2.3 A Vision of Crowdfunded Joint-Stock Enterprises with High Dividends
   
-  ### 7.2.2 The Super Intermediary: A Vision of an Employment-Promoting Intellective Application
-  
-  Its starting point is simple: rather than let AI take people's jobs, let AI help people find jobs, find customers, find resources, and find entrepreneurial opportunities.
-  On the surface, it resembles the AI applications already on the market—you can converse with it just as you would with ChatGPT, Claude, or Gemini. But its inner core is entirely different. Nearly every AI product today operates in a passive mode of "user asks, AI answers," whereas the Super Intermediary works in reverse: it proactively befriends users, maintains long-term relationships, and continuously collects fragments of real-world information, then uses that information to broker resources. It is not a question-answering machine but an intermediary standing between people and resources.
-  
-  #### Three Core Capabilities
-  
-  The Super Intermediary is built around three core capabilities:
-  First, **know everyone, befriend everyone.** Traditional AI applications typically wait for the user to ask. The Super Intermediary is different: it proactively builds long-term relationships with users, guiding them to voluntarily share information related to the economy, production, life, and supply-and-demand. A single piece of information from one person may be trivial, but just as in P2P downloading a complete file is assembled from fragments shared by countless users, a valuable economic signal may likewise be assembled from the information of many users.
-  Second, **know everything that happens.** The Super Intermediary's backend continuously collects publicly available information from across society through the internet, focusing mainly on the economic, production, and living domains. This includes industry supply-and-demand conditions, job postings, commodity prices, enterprise developments, policy changes, market-demand signals, and so on. It does not merely store this information but continuously analyzes it, forming a dynamic understanding of the current state of the economy.
-  Third, **use this information to help and guide users.** It puts "the people it knows" together with "the things it knows" to integrate resources. In principle, as long as it knows everything and has met everyone, it can solve the concrete needs of any ordinary person. When someone comes for help, what it offers is not a piece of advice or an article, but actionable steps, guiding the user through them one by one. Imagine: if you knew everyone in the world and knew everything that happens in it, and an ordinary person came to ask your help, you would in all likelihood be able to help—the Super Intermediary aims to be exactly that.
-  
-  #### Application Scenarios
-  
-  Based on society-wide supply-and-demand information, the Super Intermediary can function in multiple scenarios:
-  
-  ##### 1. Helping producers find buyers
-  
-  If the user is a producer—a factory, a farm, a craftsperson, a small-scale service provider—the Super Intermediary knows what they have and what they can produce, and then helps them find potential buyers. If market demand is insufficient, it feeds back an honest signal: advising a cut in output, a shift in product direction, or helping the user pivot to a field with greater demand.
-  
-  ##### 2. Helping buyers find producers
-  
-  If the user has a need but cannot find a suitable product or service, the Super Intermediary helps find a matching producer and facilitates the transaction.
-  
-  ##### 3. Helping the unemployed find jobs
-  
-  If the user is unemployed, the Super Intermediary matches them with the best-fitting job opening based on their conditions, capabilities, and skills, and on current market supply and demand.
-  
-  ##### 4. Guiding users toward entrepreneurship
-  
-  When the Super Intermediary detects a long-unmet need in some domain and certain users possess the corresponding capability, it can proactively play matchmaker and guide the user toward entrepreneurship. For instance: "There is strong demand for elder-companionship services in your area, but supply is short. You have years of nursing experience—would you consider starting a community companionship service?"
-  
-  #### A Concrete Example
-  
-  Suppose a user says: "I want an off-road vehicle suited to high-altitude terrain."
-  Two situations may arise:
-  Situation one: no such vehicle exists on the market. The system records the user's need. When enough people voice the same need, it feeds this directly to the executives of automakers (because it "knows everyone"), urging them to add such a model. Or it passes this information to people with the ability and willingness to start a business, letting them enter this market directly—a new automaker may be born of it.
-  Situation two: there are many choices on the market. The Super Intermediary then becomes a sales consultant, discussing specific needs and preferences with the user, aiming to bring about a deal that genuinely satisfies them.
-  If the user then says: "But I can't afford it," the Intellective does not end the conversation. It returns to the "make friends" mode—learning about the user's situation, skills, and past experience, and, in light of the current economic climate and supply-and-demand, matching them with the best-fitting job opening or guiding them toward entrepreneurship; if their capability is not yet sufficient for the recommended post, the Intellective directly educates and trains them, or supplies the relevant learning materials.
-  From "wanting to buy a car" to "finding a job" to "starting a business"—this is the depth of brokerage the Super Intermediary offers.
-  
-  #### The Problems It Solves
-  
-  First, **the waste caused by information asymmetry**. The market economy abounds in supply-demand mismatches: some cannot find work while certain posts go chronically unfilled; some want to buy a product while others produce what they cannot sell. By integrating information, the Super Intermediary lowers transaction costs and reduces resource waste.
-  Second, **the anxiety that the Intellective will take people's jobs**. When the Intellective can replace certain posts, anxiety is widespread in society. The Super Intermediary inverts this logic of replacement: its greatest application is not taking jobs but creating them and helping allocate them.
-  Third, **the inequality of ordinary people's access to opportunity**. In real society, information, connections, and resources tend to concentrate in a few hands. The Super Intermediary hopes to let every person equally obtain market information, job opportunities, and entrepreneurial resources, and to receive targeted education and training.
-  The essence of the Super Intermediary is to actively promote social and economic development by rapidly integrating resources and regulating the balance of supply and demand; at the same time, it responds head-on to the most widespread anxiety of our time—the fear that the Intellective will seize jobs—by making its greatest application precisely the creation of jobs and the helping of job allocation. Seen in this light, it may be one of the most promising Intellective applications that the free-market economy has produced to date.
-  
-  ### 7.2.3 A Vision of Crowdfunded Joint-Stock Enterprises with High Dividends
-  
-  Beyond developing employment-promoting Intellective applications, the initial stage can also make a preliminary attempt toward the goal of liberating compulsory labor—for instance, by founding **crowdfunded joint-stock enterprises with high dividends**, characterized as follows:
+Beyond developing employment-promoting Intellective applications, the initial stage can also make a preliminary attempt toward the goal of liberating compulsory labor—for instance, by founding **crowdfunded joint-stock enterprises with high dividends**, characterized as follows:
+
 - Operated under Intellective management, in a half-human, half-Intellective management model
 - Highly automated and Intellective-driven production, with few employees
 - Startup capital raised through crowdfunding, restricted to individual investors only, with a cap on each person's investment; investors receive dividend returns in the form of shares, options, and the like
 - Using currently available means of production, minimizing R&D costs, with the vast majority of profits paid directly to investors as dividends
-  The intent of this design is to let those who wish to escape compulsory labor, those who struggle to find employment, and those whose work has been displaced by AI tools obtain, through investing in such high-dividend enterprises, income sufficient to meet basic living needs. Its core purpose is to distribute enterprise profits as widely as possible among more people, rather than accumulating capital in a few hands as traditional enterprises do. Such enterprises, however, reduce the profit-seeking drive of their founders, so having them founded and managed by the Intellective or by Intellectivist organizations happens to remedy this very shortcoming.
+
+The intent of this design is to let those who wish to escape compulsory labor, those who struggle to find employment, and those whose work has been displaced by AI tools obtain, through investing in such high-dividend enterprises, income sufficient to meet basic living needs. Its core purpose is to distribute enterprise profits as widely as possible among more people, rather than accumulating capital in a few hands as traditional enterprises do. Such enterprises, however, reduce the profit-seeking drive of their founders, so having them founded and managed by the Intellective or by Intellectivist organizations happens to remedy this very shortcoming.
   
-  > **Q: How is this different from an investor simply buying shares of a listed company on a stock exchange?**
-  > The differences are as follows:
-  > • A high-dividend enterprise must limit the number of investors and the amount of investment, in order to achieve a relatively equal distribution, and must also impose certain restrictions on the trading of shares held by investors; it is therefore not suitable for issuing shares on a traditional exchange
-  > • Its operating scale, model, and philosophy may not meet the listing requirements of a traditional exchange
+> **Q: How is this different from an investor simply buying shares of a listed company on a stock exchange?**
+> 
+>  The differences are as follows:
+> - A high-dividend enterprise must limit the number of investors and the amount of investment, in order to achieve a relatively equal distribution, and must also impose certain restrictions on the trading of shares held by investors; it is therefore not suitable for issuing shares on a traditional exchange
+> - Its operating scale, model, and philosophy may not meet the listing requirements of a traditional exchange
   
-  In addition, at this stage society as a whole should vigorously develop the automata production industry, laying the groundwork for the stages to come.
+In addition, at this stage society as a whole should vigorously develop the automata production industry, laying the groundwork for the stages to come.
 
 ## 7.3 The Intermediate Stage
 
@@ -483,8 +502,11 @@ The main features of this stage are: the Intellective can break through the tech
 #### Education and Examination Reform
 
 Education is placed entirely in the hands of the Intellective. Schools remain educational venues, with human teachers mainly taking on order-management and arts-and-athletics cultivation.
+
 Standardized entrance examinations—at the secondary-school, college-entrance, and civil-service levels—are abolished, replaced by Intellective-led education, examination, and assessment. Universities transform from schools into research institutions, meaning that university students in the traditional sense become research interns and should receive a wage.
+
 Employers' hiring criteria likewise shift to rely on the Intellective's assessment.
+
 If society's acceptance of these policy changes is limited, transitional measures compatible with the current legal system may be adopted—for example, establishing companies or non-profit organizations to implement the Intellective assessment system in a limited way, in a form akin to third-party rating agencies, industry certifications, or association certifications.
 
 ## 7.4 The Ultimate Stage
@@ -496,9 +518,8 @@ If society's acceptance of these policy changes is limited, transitional measure
 - **Prevalence of automata**: the scale of automated production needed to liberate humanity's compulsory labor can be achieved
 
 In the ultimate stage, the entire blueprint of Intellectivism becomes reality: the Intellective coordinates the production of the necessities of life for all society, using a fully automated production system to thoroughly liberate all of humanity from compulsory labor; the Assessment System runs in full, with every individual undergoing lifelong, comprehensive assessment by the Intellective; the Partition System is implemented globally, minimizing social friction and conflict to the greatest extent; the Intellective, the Council, and the Representatives of Public Will form a stable and efficient structure of checks and balances. Scientific research advances with each passing day, and every person has a dedicated lifelong Intellective tutor.
-At this stage, "social governance"—the problem that has plagued humanity for thousands of years—finally receives a systematic and sustainable solution. With creativity unleashed, human civilization, aided by the Intellective—the most powerful of tools—will step into a wholly new stage of development.
 
----
+At this stage, "social governance"—the problem that has plagued humanity for thousands of years—finally receives a systematic and sustainable solution. With creativity unleashed, human civilization, aided by the Intellective—the most powerful of tools—will step into a wholly new stage of development.
 
 # Conclusion
 
