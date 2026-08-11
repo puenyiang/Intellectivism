@@ -4,6 +4,10 @@ subtitle: On the Meaning of the Intellective's Existence and a New Form of Human
 author: Ocean Davis
 copyright: 
 ---
+# Intellectivism
+On the Meaning of the Intellective's Existence and a New Form of Human Society
+
+Ocean Davis
 
 ## Abstract
 
